@@ -5,4 +5,4 @@ An example peak integration tool developed for chromatogram peak area analysis. 
 
 "noise_regions" are chosen by running the program and finding the retention times in each gate that correspond to the noise floor. This has to be done manually, and is also a good time to make sure the automatically selected peak corresponds to the expected retention time from your standards. Running the code with any values here will bring up the browser tool to allow you to do this easily.
 
-This code was developed for Pearce, Hörst, Sebree, He (2023) Nature Geoscience (under review).
+This code was developed for Pearce, Hörst, Sebree, He (2023) Planetary Science Journal (under review).
